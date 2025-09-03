@@ -3,7 +3,7 @@
 Custom HLSL shader built inside a **UE5 Custom Node**, simulating a cyberpunk-inspired time-stop/control iris effect.  
 This effect combines emissive: bursts, radial sweeps, and clock-like tally marks.  
 
-🎥 **Video Breakdown:** [YouTube Link Coming Soon]  
+🎥 **Video Showcase:** [https://www.youtube.com/watch?v=HdKnlGgKhlA]  
 
 ---
 
